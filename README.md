@@ -4,6 +4,6 @@
 </p>
 <div align="center">
    <a href="https://discord.com/users/94490510688792576" target="_blank">
-      <img src="[https://lanyard.cnrad.dev/api/94490510688792576?bg=111111)">
+      <img src="https://lanyard.cnrad.dev/api/94490510688792576?bg=111111">
    </a>
 </div>
